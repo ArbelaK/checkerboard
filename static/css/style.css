@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+.p1{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
+.p2{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
+.display{
+    display: flex;
+    justify-content: center;
+}
